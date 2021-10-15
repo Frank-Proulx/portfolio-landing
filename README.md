@@ -25,7 +25,7 @@ This site is intended to give me a chance to practice what I've learned so far, 
 
 ## Known Bugs
 
-No known bugs at this time
+No known bugs at this time.
 
 ## License
 

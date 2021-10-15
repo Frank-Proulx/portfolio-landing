@@ -25,6 +25,10 @@ h1 {
   font-size: 95px;
 }
 
+h2 {
+  margin-bottom: 10px;
+}
+
 .intro {
   position: relative;
   left: 150px;
