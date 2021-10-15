@@ -1,5 +1,5 @@
 body {
-  background-color: rgba(0, 255, 234, 0.377);
+  background-color: #eaf1ff;
   font-family: garamond, serif;
 }
 
@@ -11,11 +11,12 @@ img {
 }
 
 .jumbotron {
-  background-color: rgba(229, 255, 0, 0.589);
+  background-color: #eaf1ff;
   color:rgb(0, 89, 255);
   text-align: center;
   padding-top: 40px;
   padding-bottom: 40px;
+  border-bottom: 1px solid grey;
 }
 
 .jumbotron p {
@@ -26,8 +27,8 @@ h1 {
   font-size: 50px;
 }
 
-.about-me p {
-  font-size: 20px;
+.intro p {
+  font-size: 30px;
 }
 
 .projects {
