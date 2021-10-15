@@ -2,14 +2,13 @@
 
 #### By Frank Proulx
 
-#### _{Brief description of application}_
+#### A portfolio website highlighting me and the work I've done as a developer
 
 ## Technologies Used
 
-* _List all_
-* _the major technologies_
-* _you used in your project_
-* _here_
+* HTML
+* CSS
+* Bootstrap
 
 ## Description
 
@@ -24,6 +23,8 @@ _{This is a detailed description of your application. Give as much detail as nee
 * _format_
 
 _{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this application depends on? We recommend deleting the project from your desktop, re-cloning the project from GitHub, and writing down all the steps necessary to get the project working again.}_
+
+## Link to GitHub Pages
 
 ## Known Bugs
 

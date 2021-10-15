@@ -1,8 +1,17 @@
+body {
+  background-color: rgba(0, 255, 234, 0.377)
+}
+
 img {
   width: 20%;
   height: auto;
   float: left;
   margin-right: 20px;
+}
+
+.jumbotron {
+  background-color: rgba(229, 255, 0, 0.589);
+  color:rgb(0, 89, 255)
 }
 
 h1 {
@@ -14,5 +23,10 @@ h1 {
 }
 
 .projects {
-  margin-top: 90px;
+  margin-top: 20px;
 }
+
+.port-lang {
+  color: rgba(255, 0, 0, 0.979)
+}
+
