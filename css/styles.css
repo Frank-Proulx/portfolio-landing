@@ -12,34 +12,45 @@ img {
 
 .jumbotron {
   background-color: #eaf1ff;
-  color:rgb(0, 89, 255);
   text-align: center;
-  padding-top: 40px;
-  padding-bottom: 40px;
+  padding-top: 60px;
+  padding-bottom: 30px;
   border-bottom: 1px solid grey;
-}
-
-.jumbotron p {
-  font-size: 18px;
 }
 
 h1 {
   font-size: 50px;
 }
 
+.intro {
+  position: relative;
+  left: 80px;
+}
+
 .intro p {
-  font-size: 30px;
+  font-size: 32px;
+  margin-left: 20px;
+  position: relative;
+  left: 20px;
+}
+
+.buffer-line {
+  padding-top: 25px;
 }
 
 .projects {
-  margin-top: 50px;
+  margin-top: 90px;
 }
 
 .port-lang {
-  color: rgba(255, 0, 0, 0.979);
+  color: rgb(255, 123, 0);
 }
 
 .interests {
-  border: 1px solid blue;
+  border-bottom: 1px solid grey;
   padding: 15px;
+}
+
+a {
+  color: rgb(0, 132, 255);
 }
