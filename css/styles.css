@@ -11,7 +11,14 @@ img {
 
 .jumbotron {
   background-color: rgba(229, 255, 0, 0.589);
-  color:rgb(0, 89, 255)
+  color:rgb(0, 89, 255);
+  text-align: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.jumbotron p {
+  font-size: 18px;
 }
 
 h1 {
