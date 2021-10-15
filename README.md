@@ -16,22 +16,21 @@ This site is intended to give me a chance to practice what I've learned so far, 
 
 ## Setup/Installation Requirements
 
-* Navigate to the directory you would like to use for this project on your computer.
-* Initialize a git repository using **git init** in the terminal.
+* Create and/or navigate to the directory you would like to contain this project on your computer.
+* Initialize a git repository by typing **git init** in the terminal.
 * Type **git clone https://github.com/Frank-Proulx/portfolio-landing** to clone the repository to your local machine.
-* Open the file "index.html" using either the GUI in your finder window, or typing **open index.html** in the terminal from within your chosen project folder.
+* Open the file "index.html" in the newly created "portfolio-landing" folder using either the GUI in your finder window, or typing **cd portfolio-landing** and pressing return to navigate into the project folder, and then typing **open index.html** in the terminal from within the portfolio-landing folder.  
 
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this application depends on? We recommend deleting the project from your desktop, re-cloning the project from GitHub, and writing down all the steps necessary to get the project working again.}_
-
-## Link to GitHub Pages
+## Link to [GitHub Pages]()
 
 ## Known Bugs
 
-* _Any known issues_
-* _should go here_
+No known bugs at this time
 
 ## License
 
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
+[MIT](https://opensource.org/licenses/MIT)
 
-Copyright (c) _date_ _author name(s)_
+If you have any issues, questions, ideas or concerns, please reach out to me at my email and/or make a contribution to the code via GitHub.
+
+Copyright (c) 2021 Frank Proulx
