@@ -1,5 +1,6 @@
 body {
-  background-color: rgba(0, 255, 234, 0.377)
+  background-color: rgba(0, 255, 234, 0.377);
+  font-family: garamond, serif;
 }
 
 img {
@@ -30,10 +31,14 @@ h1 {
 }
 
 .projects {
-  margin-top: 20px;
+  margin-top: 50px;
 }
 
 .port-lang {
-  color: rgba(255, 0, 0, 0.979)
+  color: rgba(255, 0, 0, 0.979);
 }
 
+.interests {
+  border: 1px solid blue;
+  padding: 15px;
+}

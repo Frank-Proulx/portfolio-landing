@@ -21,7 +21,7 @@ This site is intended to give me a chance to practice what I've learned so far, 
 * Type **git clone https://github.com/Frank-Proulx/portfolio-landing** to clone the repository to your local machine.
 * Open the file "index.html" in the newly created "portfolio-landing" folder using either the GUI in your finder window, or typing **cd portfolio-landing** and pressing return to navigate into the project folder, and then typing **open index.html** in the terminal from within the portfolio-landing folder.  
 
-## Link to [GitHub Pages]()
+## Link to [GitHub Pages](Frank-Proulx.github.io/portfolio-landing)
 
 ## Known Bugs
 
