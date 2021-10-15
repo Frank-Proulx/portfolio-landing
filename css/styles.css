@@ -1,7 +1,8 @@
 body {
   background-color: #eaf1ff;
-  font-family: garamond, serif;
+  font-family: 'Rubik', sans-serif;
   color: #4E4E4E;
+  margin-bottom: 30px;
 }
 
 img {
@@ -20,12 +21,12 @@ img {
 }
 
 h1 {
-  font-size: 50px;
+  font-size: 95px;
 }
 
 .intro {
   position: relative;
-  left: 80px;
+  left: 120px;
 }
 
 .intro p {
@@ -44,18 +45,27 @@ h1 {
 
 .port-lang {
   color: rgb(0, 55, 13);
-  font-family: cursive;
 }
 
 .past-life {
-  margin-top: 35px;
+  margin-top: 30px;
+  text-align: justify;
 }
 
 .interests {
-  margin-top: 35px;
-  border-bottom: 1px solid grey;
+  margin-top: 30px;
 }
 
 a {
   color: rgb(0, 25, 200);
+}
+
+.why {
+  margin-top: 30px;
+  position: relative;
+  left: 190px;
+}
+
+.pg-bottom {
+  padding-bottom: 70px;
 }
